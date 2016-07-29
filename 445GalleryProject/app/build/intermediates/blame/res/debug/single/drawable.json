@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\androidStudio\\445GalleryProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_3.png",
+        "source": "D:\\androidStudio\\445GalleryProject\\app\\src\\main\\res\\drawable\\sample_3.png"
+    },
+    {
+        "merged": "D:\\androidStudio\\445GalleryProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_6.png",
+        "source": "D:\\androidStudio\\445GalleryProject\\app\\src\\main\\res\\drawable\\sample_6.png"
+    },
+    {
+        "merged": "D:\\androidStudio\\445GalleryProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_2.png",
+        "source": "D:\\androidStudio\\445GalleryProject\\app\\src\\main\\res\\drawable\\sample_2.png"
+    },
+    {
+        "merged": "D:\\androidStudio\\445GalleryProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_4.png",
+        "source": "D:\\androidStudio\\445GalleryProject\\app\\src\\main\\res\\drawable\\sample_4.png"
+    },
+    {
+        "merged": "D:\\androidStudio\\445GalleryProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "D:\\androidStudio\\445GalleryProject\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\androidStudio\\445GalleryProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_1.png",
+        "source": "D:\\androidStudio\\445GalleryProject\\app\\src\\main\\res\\drawable\\sample_1.png"
+    },
+    {
+        "merged": "D:\\androidStudio\\445GalleryProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_7.png",
+        "source": "D:\\androidStudio\\445GalleryProject\\app\\src\\main\\res\\drawable\\sample_7.png"
+    },
+    {
+        "merged": "D:\\androidStudio\\445GalleryProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_5.png",
+        "source": "D:\\androidStudio\\445GalleryProject\\app\\src\\main\\res\\drawable\\sample_5.png"
+    }
+]

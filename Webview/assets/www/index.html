@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="EUC-KR">
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1">
+	<title>Welcome to My Server</title>
+	<script type="text/javascript">
+	function fromAndroid(msg) {
+		alert("from android :" + msg);
+		var el = document.createElement('p');
+		el.innerHTML = "from android :" + msg;
+		document.body.appendChild(el);
+		console.log("from android :" + msg);
+	}
+
+
+
+
+	function greeting() {
+		alert("Hello!");
+		var el = document.createElement('p');
+		el.innerHTML = 'hello';
+		document.body.appendChild(el);
+		console.log("btn clicked...");
+	}
+
+	window.onload=function() {
+		var btnSend = document.getElementById('btnSend');
+		btnSend.onclick = function() {
+			var msg = document.getElementById('msg').value;
+			alert('from web:' +msg);		<!--webbrowser에서 띄우기-->
+			android.toast(msg);				<!--안드로이드에서 띄우기-->
+		}
+	};
+	</script>
+
+
+</head>
+<body>
+	<h1>Welcome to My Server!</h1>
+	<p>This is index page </p>
+	<input type="text" id="msg"/><button id="btnSend">Send</button>
+	<button onclick="android.beep();">beep</button>
+	<button onclick="greeting();">Hello</button>
+	<br/>
+	<img src="weather.jpg"/>
+	<br/>
+	<a href="next.html">next.html</a>
+
+</body>
+</html>

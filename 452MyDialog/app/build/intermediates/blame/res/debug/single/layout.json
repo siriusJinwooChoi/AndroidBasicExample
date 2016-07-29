@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\androidStudio\\452MyDialog\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog_text_entry.xml",
+        "source": "D:\\androidStudio\\452MyDialog\\app\\src\\main\\res\\layout\\alert_dialog_text_entry.xml"
+    },
+    {
+        "merged": "D:\\androidStudio\\452MyDialog\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_activity.xml",
+        "source": "D:\\androidStudio\\452MyDialog\\app\\src\\main\\res\\layout\\dialog_activity.xml"
+    },
+    {
+        "merged": "D:\\androidStudio\\452MyDialog\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog.xml",
+        "source": "D:\\androidStudio\\452MyDialog\\app\\src\\main\\res\\layout\\alert_dialog.xml"
+    },
+    {
+        "merged": "D:\\androidStudio\\452MyDialog\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\androidStudio\\452MyDialog\\app\\src\\main\\res\\layout\\main.xml"
+    }
+]

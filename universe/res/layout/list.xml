@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/flag"
+        android:layout_width="0dp"
+        android:layout_height="100dp"
+        android:src="@drawable/ko"
+        android:layout_weight="1"/>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="100dp"
+        android:orientation="vertical"
+        android:layout_weight="1">
+
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="대한민국"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:id="@+id/intro"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="한국(韓國, 영어: Korea, 문화어: 조선 朝鮮)은 한민족의 나라로서 남북을 구분짓지 않고 전체를 일컫거나, 또는 한반도의 남쪽에 있는 대한민국만을 줄여 이르는 말이다. 한국의 강역은 현재 한반도와 그 부속 도서를 말한다."
+            android:textSize="10sp"/>
+
+
+
+
+
+
+
+    </LinearLayout>
+
+</LinearLayout>

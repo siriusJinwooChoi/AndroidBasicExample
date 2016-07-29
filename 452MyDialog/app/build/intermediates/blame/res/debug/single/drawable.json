@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\androidStudio\\452MyDialog\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_popup_reminder.png",
+        "source": "D:\\androidStudio\\452MyDialog\\app\\src\\main\\res\\drawable\\ic_popup_reminder.png"
+    },
+    {
+        "merged": "D:\\androidStudio\\452MyDialog\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "D:\\androidStudio\\452MyDialog\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\androidStudio\\452MyDialog\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alert_dialog_icon.png",
+        "source": "D:\\androidStudio\\452MyDialog\\app\\src\\main\\res\\drawable\\alert_dialog_icon.png"
+    }
+]

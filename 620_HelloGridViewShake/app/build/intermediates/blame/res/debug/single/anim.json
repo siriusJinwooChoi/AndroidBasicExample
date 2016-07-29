@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\androidStudio\\620_HelloGridViewShake\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shake.xml",
+        "source": "D:\\androidStudio\\620_HelloGridViewShake\\app\\src\\main\\res\\anim\\shake.xml"
+    },
+    {
+        "merged": "D:\\androidStudio\\620_HelloGridViewShake\\app\\build\\intermediates\\res\\merged\\debug\\anim\\cycle_7.xml",
+        "source": "D:\\androidStudio\\620_HelloGridViewShake\\app\\src\\main\\res\\anim\\cycle_7.xml"
+    }
+]

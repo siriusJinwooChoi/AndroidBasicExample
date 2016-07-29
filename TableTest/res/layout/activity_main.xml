@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.edu.tabletest.MainActivity"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+    <Button
+        android:id="@+id/btnSunshine"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sun"/>
+
+    <Button
+        android:id="@+id/btnCloudy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cloud"/>
+
+        <Button
+            android:id="@+id/invi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="INVISIBLE"/>
+    </LinearLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="3">
+
+        <ImageView
+            android:id="@+id/imageSun"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/sunshine"/>
+           <!-- android:visibility="invisible"-->
+
+        <ImageView
+            android:id="@+id/imageCloud"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/cloudy"
+            android:visibility="invisible"/>
+
+    </FrameLayout>
+</LinearLayout>
